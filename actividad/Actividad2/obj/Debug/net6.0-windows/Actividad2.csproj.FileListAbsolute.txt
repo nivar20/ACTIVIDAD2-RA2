@@ -1,0 +1,35 @@
+C:\Users\jorle\source\repos\Actividad2\Actividad2\bin\Debug\net6.0-windows\Actividad2.exe
+C:\Users\jorle\source\repos\Actividad2\Actividad2\bin\Debug\net6.0-windows\Actividad2.deps.json
+C:\Users\jorle\source\repos\Actividad2\Actividad2\bin\Debug\net6.0-windows\Actividad2.runtimeconfig.json
+C:\Users\jorle\source\repos\Actividad2\Actividad2\bin\Debug\net6.0-windows\Actividad2.dll
+C:\Users\jorle\source\repos\Actividad2\Actividad2\bin\Debug\net6.0-windows\Actividad2.pdb
+C:\Users\jorle\source\repos\Actividad2\Actividad2\obj\Debug\net6.0-windows\Actividad2.Form1.resources
+C:\Users\jorle\source\repos\Actividad2\Actividad2\obj\Debug\net6.0-windows\Actividad2.csproj.GenerateResource.cache
+C:\Users\jorle\source\repos\Actividad2\Actividad2\obj\Debug\net6.0-windows\Actividad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorle\source\repos\Actividad2\Actividad2\obj\Debug\net6.0-windows\Actividad2.AssemblyInfoInputs.cache
+C:\Users\jorle\source\repos\Actividad2\Actividad2\obj\Debug\net6.0-windows\Actividad2.AssemblyInfo.cs
+C:\Users\jorle\source\repos\Actividad2\Actividad2\obj\Debug\net6.0-windows\Actividad2.csproj.CoreCompileInputs.cache
+C:\Users\jorle\source\repos\Actividad2\Actividad2\obj\Debug\net6.0-windows\Actividad2.dll
+C:\Users\jorle\source\repos\Actividad2\Actividad2\obj\Debug\net6.0-windows\refint\Actividad2.dll
+C:\Users\jorle\source\repos\Actividad2\Actividad2\obj\Debug\net6.0-windows\Actividad2.pdb
+C:\Users\jorle\source\repos\Actividad2\Actividad2\obj\Debug\net6.0-windows\Actividad2.genruntimeconfig.cache
+C:\Users\jorle\source\repos\Actividad2\Actividad2\obj\Debug\net6.0-windows\ref\Actividad2.dll
+C:\Users\jorle\source\repos\Actividad2\Actividad2\obj\Debug\net6.0-windows\Actividad2.Ver_Archivo.resources
+C:\Users\Maria Ribera\Downloads\actividad\Actividad2\bin\Debug\net6.0-windows\Actividad2.exe
+C:\Users\Maria Ribera\Downloads\actividad\Actividad2\bin\Debug\net6.0-windows\Actividad2.deps.json
+C:\Users\Maria Ribera\Downloads\actividad\Actividad2\bin\Debug\net6.0-windows\Actividad2.runtimeconfig.json
+C:\Users\Maria Ribera\Downloads\actividad\Actividad2\bin\Debug\net6.0-windows\Actividad2.dll
+C:\Users\Maria Ribera\Downloads\actividad\Actividad2\bin\Debug\net6.0-windows\Actividad2.pdb
+C:\Users\Maria Ribera\Downloads\actividad\Actividad2\obj\Debug\net6.0-windows\Actividad2.Form1.resources
+C:\Users\Maria Ribera\Downloads\actividad\Actividad2\obj\Debug\net6.0-windows\Actividad2.Properties.Resources.resources
+C:\Users\Maria Ribera\Downloads\actividad\Actividad2\obj\Debug\net6.0-windows\Actividad2.Ver_Archivo.resources
+C:\Users\Maria Ribera\Downloads\actividad\Actividad2\obj\Debug\net6.0-windows\Actividad2.csproj.GenerateResource.cache
+C:\Users\Maria Ribera\Downloads\actividad\Actividad2\obj\Debug\net6.0-windows\Actividad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Ribera\Downloads\actividad\Actividad2\obj\Debug\net6.0-windows\Actividad2.AssemblyInfoInputs.cache
+C:\Users\Maria Ribera\Downloads\actividad\Actividad2\obj\Debug\net6.0-windows\Actividad2.AssemblyInfo.cs
+C:\Users\Maria Ribera\Downloads\actividad\Actividad2\obj\Debug\net6.0-windows\Actividad2.csproj.CoreCompileInputs.cache
+C:\Users\Maria Ribera\Downloads\actividad\Actividad2\obj\Debug\net6.0-windows\Actividad2.dll
+C:\Users\Maria Ribera\Downloads\actividad\Actividad2\obj\Debug\net6.0-windows\refint\Actividad2.dll
+C:\Users\Maria Ribera\Downloads\actividad\Actividad2\obj\Debug\net6.0-windows\Actividad2.pdb
+C:\Users\Maria Ribera\Downloads\actividad\Actividad2\obj\Debug\net6.0-windows\Actividad2.genruntimeconfig.cache
+C:\Users\Maria Ribera\Downloads\actividad\Actividad2\obj\Debug\net6.0-windows\ref\Actividad2.dll
